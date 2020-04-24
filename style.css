@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(197, 235, 252, 0.938);
 }
 .img_container {
   display: flex;
